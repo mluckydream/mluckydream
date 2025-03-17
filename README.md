@@ -3,7 +3,7 @@
 <img align="right" width="25%" auto src="https://i.imgur.com/kdKhgx6.gif">
 My name is Gloria, major in software engineering，focuses on simulation modeling, model evaluation，optimization in supply chains, logistics, manufacturing, healthcare, and many other industries. I have a keen interest in Large Language Models (LLM), reinforcement learning(RL), front-end visualizationn, and GIS maps.
 
-- 🌱 I’m currently learning Data Structures and Algorithms，RL，Streamlit.
+- 🌱 I’m currently learning Data Structures and Algorithms.
 - 👯 I’m looking for people to practice my Coding with.
 - 💬 I'm fluently in Chinese, If you are learning Chinese and need help feel free to chat with me.
 - 📫 How to reach me: manzh@berkeley.edu
