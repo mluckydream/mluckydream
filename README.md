@@ -3,13 +3,11 @@
 <img align="right" width="25%" auto src="https://i.imgur.com/kdKhgx6.gif">
 My name is Gloria, major in software engineering，focuses on simulation modeling, model evaluation，optimization in supply chains, logistics, manufacturing, healthcare, and many other industries. I have a keen interest in Large Language Models (LLM), reinforcement learning(RL), front-end visualizationn, and GIS maps.
   <div style="flex: 1; max-width: 45%; text-align: left; margin-left: 20px;">
-        <h3>🌐 Let's Connect and Grow Together!</h3>
-        <p>
+         <span>🌐 Let's Connect and Grow Together!</span>
             </a>
             <a href="https://www.youtube.com/@manzhang6418" target="_blank" style="text-decoration: none;">
                 <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/youtube.svg" alt="YouTube">
             </a>
-        </p>
   </div>
 
 - 🌱 I’m currently learning Data Structures and Algorithms.
